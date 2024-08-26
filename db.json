@@ -1,9 +1,24 @@
 {
-"posts":[
+  "posts": [
     {
-        "id":"b741",
-        "age": 30,
-        "name":"John"
+      "id": "b741",
+      "age": 30,
+      "name": "John"
+    },
+    {
+      "id": "b742",
+      "age": 31,
+      "name": "Jane"
+    },
+    {
+      "id": "mg2pk",
+      "name": "mm",
+      "age": "55"
+    },
+    {
+      "id": "8q1g1",
+      "name": "Marlon",
+      "age": "19"
     }
-]
+  ]
 }
